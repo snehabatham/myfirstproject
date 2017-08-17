@@ -1,0 +1,223 @@
+body{
+	height: 100%;
+	width: 100%;	
+	margin: 0;
+	padding: 0;
+}
+.head
+{
+	height: 98px;
+	width: 100%;
+	background:#ffccff;	
+}
+.righthead{
+	height:40px;
+	width: 300px; 
+	float: right;
+	margin: 25px 20px 0 0;
+	
+}
+.login,.reg{
+	height: 100%;
+	width: 120px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 32px;
+	
+
+
+}
+.login{
+	float: left;
+}
+.reg{
+	background: #007acc;
+	border-radius: 5px;
+	float: right;
+	
+}
+a{
+	text-decoration: none;
+}
+.sign{
+	
+	color: #fff;
+	background: #007acc;
+	border-radius: 5px;
+}
+
+.home,.reg1{
+	height: 32px;
+	width: 150px;
+	margin-top:30px; 
+	font-size: 20px;
+	background: #b3b3ff;
+	color: #fff;
+	text-align: center;
+	border-radius: 5px;
+	line-height: 28px;
+}
+.reg1{
+	float: right;
+	margin-right: 20px;
+}
+.home{
+	float: left;
+margin-left: 30px;}
+.container
+{
+	min-height: 1250px;
+	width: 100%;
+	background: #cce6ff;
+	
+}
+.footer{
+	height: 50px;
+	width: 100%;
+	background: #000;
+}
+.midcontainer
+{
+	height: 550px;
+	width: 900px;
+	margin: 0 auto;
+	border: 1px solid #99b3ff;
+	background: #fff;
+
+}
+.cenconateiner
+{
+	height: 450px;
+	width: 800px;
+	margin: 0 auto;
+	
+	margin-top: 50px;
+}
+h1{
+	border-bottom: 1px solid #d1e0e0;
+	font-weight: normal;
+}
+.form1
+{
+	height: 250px;
+	width: 700px;
+	margin: 0 auto;
+}
+.put
+{
+height: 60px;
+width: 100%;
+
+margin-top: 10px;
+font-size: 20px;
+}
+.uname,.pass{
+	height:50px;
+	width:70%;
+}
+.log
+{
+	height: 50px;
+	width: 170px;
+	background: #267326;
+	margin: 15px 0 0 90px;
+	color: #fff;
+	font-size: 25px;
+	border-radius:5px;
+}
+.container1
+{
+	height: 1000px;
+	width: 85%;
+	border: 1px solid #808080;
+	margin: 0 auto;
+	background: #fff;
+}
+.val{
+	height: 750px;
+	width: 650px;
+	margin: 0 auto;
+	border:1px solid green;
+}
+.leftval{
+	height: 100%;
+	width: 200px;
+	
+	float: left;
+}
+.rigval{
+	height: 100%;
+	width: 450px;
+	
+	float: right;
+}
+.val1{
+	height: 50px;
+	width: 100%;
+
+	margin-top: 10px;
+	font-size: 20px;
+	line-height: 40px;
+}
+.val2{
+	height: 50px;
+	width: 100%;
+
+	margin-top: 10px;
+}
+.fil{
+height: 50px;
+width: 180px;
+margin-top: 20px;
+font-size: 20px;
+}
+.fname,.lname,.uname1,.pass1,.email,.city,.phone{
+	height: 90%;
+	width: 95%;
+}
+.country{
+	height:30px;
+	width: 150px;
+}
+.put1{
+	height: 40px;
+	width:500px; 
+	background: yellow; 
+
+}
+.for
+{
+	margin-left: 10px;	
+}
+
+.main
+{
+	height: 500px;
+	width: 500px;
+	border: 1px solid blue;
+	margin: 0 auto;
+}
+.box{
+	height: 400px;
+	width: 400px;
+	margin: 0 auto;
+}
+.cp{
+	height: 40px;
+	width: 100%;
+}
+
+.sub{
+	height: 40px;
+	width: 120px;
+	background: #004d00;
+	color: #fff;
+}
+.conta{
+	height:200px;
+	width: 400px;
+	border: 1px solid blue;
+	margin: 0 auto;
+	margin-top: 40px;
+
+}
